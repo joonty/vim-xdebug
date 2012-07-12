@@ -657,7 +657,7 @@ class DebugUI:
 class DbgProtocol:
   """ DBGp Procotol class """
   def __init__(self, port=9000):
-    self.port     = 9000
+    self.port     = port
     self.sock     = None
     self.isconned = 0
   def isconnected(self):
