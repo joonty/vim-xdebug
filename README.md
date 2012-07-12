@@ -42,7 +42,8 @@ and `debugger.vim`.
 
 ## Using git and Pathogen
 
-Clone this repository in your `~/.vim/bundle` directory (and yeah, you're done).
+Clone [this repository](https://github.com/joonty/vim-xdebug) in your
+`~/.vim/bundle` directory (and yeah, you're done).
 
 ## Using vundle
 
