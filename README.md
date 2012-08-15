@@ -1,4 +1,6 @@
-# Vim-Xdebug
+# Vim-Xdebug (no longer developed)
+
+**Please note that this plugin has been superceded by [Vdebug, a Vim debugger client for PHP, Python, Ruby and Perl](http://github.com/joonty/vdebug)**
 
 This vim plugin provides a debugger interface to DBGp protocol, and therefore
 Xdebug (only tested on Xdebug 2).
